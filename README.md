@@ -2,6 +2,8 @@
 
 Una plataforma avanzada de análisis para Rocket League que utiliza inteligencia artificial y algoritmos de clustering para mejorar el rendimiento individual y formar equipos óptimos.
 
+(Faltan la mayoría de datos por liminación de github de tamaño de archivos)
+
 ## ✨ Características Principales
 
 ### 🎮 Análisis Individual
