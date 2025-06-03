@@ -52,7 +52,7 @@ st.set_page_config(
 )
 
 # Configuración de la API de Ballchasing
-API_KEY = "JR1R8xOTPOw7grXWLw1VUDHthdQM9gAn5j5wqsYr"
+API_KEY = "(FILL API KEY HERE)"
 api = BallchasingAPI(API_KEY)
 
 # Inicializar predictor de rango y analizador de equipos
