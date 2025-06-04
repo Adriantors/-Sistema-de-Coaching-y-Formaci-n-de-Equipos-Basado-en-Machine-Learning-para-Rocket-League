@@ -17,7 +17,7 @@ from typing import Dict, List, Optional
 from pathlib import Path
 
 # --- CONFIGURACIÓN ---
-BALLCHASING_API_TOKEN = "JR1R8xOTPOw7grXWLw1VUDHthdQM9gAn5j5wqsYr" 
+BALLCHASING_API_TOKEN = "Rellenar API KEY" 
 BASE_URL = "https://ballchasing.com/api"
 REPLAYS_PER_GROUP = 750
 REPLAYS_PER_REQUEST = 200  # Máximo permitido por la API para GET /replays
